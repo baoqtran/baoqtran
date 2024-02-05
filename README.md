@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to the GitHub repository for my personal website! This site showcases my portfolio, blog, and more about my professional and personal projects.
+http://baoqtran.github.io/baoqtran/
