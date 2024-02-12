@@ -20,4 +20,4 @@ Driven by the idea of creating impactful software innovations, I seek to contrib
 
 Let’s build the future together!<br />
 http://baoqtran.github.io/baoqtran/
-<img src="Cover.png" alt="alt text" title="Cover" />
+<img src="images/Cover.png" alt="alt text" title="Cover" />
