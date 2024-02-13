@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Bao Tran !!!<br />
-This site showcases my portfolio, blog, and more about my professional and personal projects.<br />
+<h1>My name is Bao Tran !!!</h1><br />
+<p>This site showcases my portfolio, blog, and more about my professional and personal projects.<br />
 Driven by the idea of creating impactful software innovations, I seek to contribute my blend of technical, creative, and financial expertise to a leading tech firm. I aim to develop software solutions that enhance user experiences and bring meaningful improvements to our daily lives.
 
 Let’s build the future together!<br />
+</p>
 http://baoqtran.github.io/baoqtran/
 <img src="images/Cover.png" alt="alt text" title="Cover" />
